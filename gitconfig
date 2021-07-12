@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rebeccalycc@gmail.com
+	name = Rebecca Cheung
